@@ -1,0 +1,27 @@
+{
+  "name": "views",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-compass": "^2.0.3",
+    "gulp-gzip": "^0.0.8",
+    "gulp-imagemin": "^2.1.0",
+    "gulp-notify": "^2.1.0",
+    "gulp-plumber": "^0.6.6"
+  },
+  "devDependencies": {
+    "gulp-cached": "^1.0.2",
+    "gulp-changed": "^1.1.1",
+    "gulp-compass": "^2.0.3",
+    "gulp-frontnote": "^0.1.0",
+    "gulp-size": "^1.2.0",
+    "imagemin-pngquant": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
